@@ -3,38 +3,38 @@
 
 ### IT Professional | Aspiring Business Analyst
 
-I'm an IT professional at Accenture with experience in application development, SQL, Azure services, production support, and application troubleshooting.
+I'm currently working at Accenture as a Packaged Application Development Analyst, with experience in .NET development, SQL, Azure services, production support, and application troubleshooting.
 
-I'm passionate about understanding business problems, analysing workflows, validating data, and translating requirements into actionable solutions.
+I'm interested in understanding business problems, analysing processes, working with data, and translating business needs into practical solutions.
 
-Currently strengthening my skills in Business Analysis, Power BI, SQL, and data-driven decision-making.
+I'm currently transitioning towards Business Analysis and strengthening my skills through continuous learning and hands-on projects.
 
 ---
 
-## 💼 Professional Skills
+## 💼 Skills & Tools
 
 - **Business Analysis:** Requirements Analysis, Business Rules, User Stories, Acceptance Criteria, Process Analysis
 - **Data Analysis:** SQL, Microsoft Excel, Power BI, DAX, Data Validation
-- **Technical Skills:** C#, .NET, Microsoft Azure, SQL Server
+- **Technical Background:** C#, .NET, Microsoft Azure, SQL Server
 - **Methodologies:** Agile, Scrum, SDLC
 - **Tools:** Jira, Power BI Desktop, Excel, diagrams.net
 
-## 📊 Featured Projects
+## 📊 Projects & Case Studies
 
-### 1. IT Service Request Analysis Dashboard
-- Developed an interactive Power BI dashboard.
-- Analysed request volumes, statuses, and monthly trends.
-- Used Power Query and DAX for data transformation and analysis.
+### 1. IT Service Request Analysis Dashboard | Power BI
+- Created an interactive dashboard to analyse service request data.
+- Explored request volumes, statuses, and monthly trends.
+- Practised data transformation using Power Query and DAX.
 
-### 2. IT Service Request Automation
-- Prepared business requirements and user stories.
-- Defined acceptance criteria and business rules.
-- Designed a proposed request approval workflow.
+### 2. IT Service Request Automation | BA Case Study
+- Worked on identifying business requirements for an IT service request process.
+- Practised writing user stories and acceptance criteria.
+- Documented business rules and a proposed approval workflow.
 
-### 3. Jira Resource Planning & Workload Analysis
-- Analysed resource allocation and workload.
-- Explored developer capacity and task distribution.
-- Identified potential bottlenecks to support planning.
+### 3. Jira Resource Planning & Workload Analysis | BA Case Study
+- Explored resource allocation and workload distribution.
+- Analysed developer capacity and task assignments.
+- Identified potential bottlenecks to support resource planning.
 
 ## 🎓 Certifications
 
@@ -44,18 +44,18 @@ Currently strengthening my skills in Business Analysis, Power BI, SQL, and data-
 
 ## 📚 Currently Learning
 
-- Business Analysis and Requirement Engineering
-- Advanced SQL and Power BI
-- Product and Process Analysis
-- Data-driven Business Decision Making
+- Business Analysis and Requirements Engineering
+- SQL and Power BI
+- DAX and Data Analysis
+- Business Process Analysis
+- Product Analysis and Agile Methodologies
 
 ## 🔗 Connect With Me
 
-- **Portfolio:** [Business Analysis Portfolio](https://app.notion.com/p/Business-Analysis-Portfolio-404e00f0d28b80548e6fdfe14f5fda5)
-- **Location:** Hyderabad, India
-- **Ph.NO** 8688991645
-- **email** bhargavi.antyakula02@gmail.com
+- 🌐 **Portfolio:** [Business Analysis Portfolio](https://app.notion.com/p/Business-Analysis-Portfolio-404e00f0d28b80548e6fdfe14f5fda5)
+- 📍 **Location:** Hyderabad, India
+- ✉️ **Email:** @bhargavi.antyakula02@gmail.com
 
 ---
 
-*Always learning, analysing, and building solutions.*
+*Always learning, exploring, and building practical solutions.*
