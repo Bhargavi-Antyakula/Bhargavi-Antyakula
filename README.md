@@ -53,6 +53,8 @@ Currently strengthening my skills in Business Analysis, Power BI, SQL, and data-
 
 - **Portfolio:** [Business Analysis Portfolio](https://app.notion.com/p/Business-Analysis-Portfolio-404e00f0d28b80548e6fdfe14f5fda5)
 - **Location:** Hyderabad, India
+- **Ph.NO** 8688991645
+- **email** bhargavi.antyakula02@gmail.com
 
 ---
 
