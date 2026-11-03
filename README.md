@@ -1,4 +1,3 @@
-
 # Hi, I'm Bhargavi Antyakula 👋
 
 ### IT Professional | Aspiring Business Analyst
@@ -27,14 +26,23 @@ I'm currently transitioning towards Business Analysis and strengthening my skill
 - Practised data transformation using Power Query and DAX.
 
 ### 2. IT Service Request Automation | BA Case Study
-- Worked on identifying business requirements for an IT service request process.
-- Practised writing user stories and acceptance criteria.
+- Identified business requirements for an IT service request process.
+- Developed user stories and acceptance criteria.
 - Documented business rules and a proposed approval workflow.
 
 ### 3. Jira Resource Planning & Workload Analysis | BA Case Study
 - Explored resource allocation and workload distribution.
 - Analysed developer capacity and task assignments.
 - Identified potential bottlenecks to support resource planning.
+
+### 4. Project Management & Delivery Tracking Dashboard | Excel
+- Developed an Excel-based project management dashboard using a simulated Employee Management System project.
+- Created KPI summaries to monitor project progress, completed tasks, overdue tasks, risks, and budget utilisation.
+- Built task and milestone trackers, a Gantt chart, budget tracker, risk register, issue log, and change request log.
+- Used Excel formulas, conditional formatting, tables, and charts to analyse project performance.
+- Created visual reports for task status, resource workload, budget analysis, and risk and issue monitoring.
+
+📊 **Excel Workbook:** [View Project Management Dashboard](https://onedrive.live.com/:x:/g/personal/dd4b3867176d4410/IQD_xxvxExkGRpZBRvnPwTtmAf5ZYP3a3Q917CHcMzpl9Ak?rtime=MmkUVZU530g)
 
 ## 🎓 Certifications
 
@@ -54,7 +62,7 @@ I'm currently transitioning towards Business Analysis and strengthening my skill
 
 - 🌐 **Portfolio:** [Business Analysis Portfolio](https://app.notion.com/p/Business-Analysis-Portfolio-404e00f0d28b80548e6fdfe14f5fda5)
 - 📍 **Location:** Hyderabad, India
-- ✉️ **Email:** @bhargavi.antyakula02@gmail.com
+- ✉️ **Email:** bhargavi.antyakula02@gmail.com
 
 ---
 
