@@ -50,14 +50,6 @@ I'm currently transitioning towards Business Analysis and strengthening my skill
 - Microsoft Security, Compliance and Identity Fundamentals (SC-900)
 - GitHub Copilot (GH-300)
 
-## 📚 Currently Learning
-
-- Business Analysis and Requirements Engineering
-- SQL and Power BI
-- DAX and Data Analysis
-- Business Process Analysis
-- Product Analysis and Agile Methodologies
-
 ## 🔗 Connect With Me
 
 - 🌐 **Portfolio:** [Business Analysis Portfolio](https://app.notion.com/p/Business-Analysis-Portfolio-404e00f0d28b80548e6fdfe14f5fda5)
